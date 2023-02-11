@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.container{
+    display: flex;
+}
+.poster{
+    max-width: 50%;
+}
+
+.banner-title{
+    font-weight: 800px;
+    font-size: 40px;
+}
